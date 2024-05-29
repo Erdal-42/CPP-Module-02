@@ -1,4 +1,4 @@
-In this module I had to demonstrate polymorphism, operator overloading and Orthodox Canonical class formations in C++. I had to structure my files as header files and source files.  
+In this module I had to demonstrate polymorphism, operator overloading and Orthodox Canonical class formations in C++98. I had to structure my files as header files and source files.  
 
 **TASKS**
 
